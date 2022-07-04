@@ -75,7 +75,7 @@ setup_args = dict(
 )
 
 install_requires = [
-    'monitoring-utils~=2.0.0'
+    'monitoring-utils~=2.3.0'
 ]
 
 if __name__ == '__main__':
